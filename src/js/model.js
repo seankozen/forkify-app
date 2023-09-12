@@ -52,4 +52,4 @@ export const loadSearchResults = async query => {
   }
 };
 
-loadSearchResults('pizza');
+//loadSearchResults('pizza');
