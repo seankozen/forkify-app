@@ -34,7 +34,7 @@
 90D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\type-fest\ts41\delimiter-case.d.ts133379365759979061 0
 87D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\caniuse-lite\data\regions\BY.js133379365978641599 0
 74D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\utility-types\dist133379365795560665 1
-47D:\TheCompleteJavaScriptCourse\forkify-app\dist133390594101810968 1
+47D:\TheCompleteJavaScriptCourse\forkify-app\dist133393240625200945 1
 88D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\core-js\es\array\virtual\keys.js133382808288286226 0
 81D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\@swc\helpers\cjs\_jsx.cjs133379365934094418 0
 98D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\core-js\features\function\virtual\index.js133382808275010976 0
@@ -56,7 +56,7 @@
 84D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\core-js\stable\array\push.js133382808300491583 0
 86D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\core-js\es\number\parse-int.js133382808298012180 0
 90D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\core-js\es\number\virtual\index.js133382808273956758 0
-63D:\TheCompleteJavaScriptCourse\forkify-app\src\js\controller.js133389749972020124 0
+63D:\TheCompleteJavaScriptCourse\forkify-app\src\js\controller.js133393238193822580 0
 83D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\svgo\plugins\removeTitle.js133379365923406785 0
 87D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\core-js\full\error\to-string.js133382808329781854 0
 80D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\@swc\helpers\_\_defaults133379366081285583 1
@@ -214,7 +214,7 @@
 99D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\caniuse-lite\data\features\css-clip-path.js133379366042022810 0
 90D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\abortcontroller-polyfill\README.md133379365773335765 0
 94D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\core-js\stable\array\virtual\splice.js133382808315952559 0
-58D:\TheCompleteJavaScriptCourse\forkify-app\src\js\model.js133389706757628423 0
+58D:\TheCompleteJavaScriptCourse\forkify-app\src\js\model.js133393213193984651 0
 102D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\abortcontroller-polyfill\src\abortableFetch.js133379365668610659 0
 69D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\mdn-data\l10n133379365737354760 1
 94D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\core-js\features\array-buffer\index.js133382808274621266 0
@@ -226,12 +226,12 @@
 83D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\semver\ranges\intersects.js133379365798478446 0
 100D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\core-js\modules\esnext.async-iterator.map.js133382808236179818 0
 97D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\core-js\proposals\change-array-by-copy.js133382808205782394 0
-73D:\TheCompleteJavaScriptCourse\forkify-app\src\js\views\paginationView.js133390594095576795 0
+73D:\TheCompleteJavaScriptCourse\forkify-app\src\js\views\paginationView.js133390600263068581 0
 93D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\core-js\modules\esnext.map.emplace.js133382808239600513 0
 61D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\chalk133379365724512130 1
 84D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\core-js\internals\classof.js133382808206043174 0
 61D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\clone133379365712103450 1
-69D:\TheCompleteJavaScriptCourse\forkify-app\src\js\views\recipeView.js133387492899533570 0
+69D:\TheCompleteJavaScriptCourse\forkify-app\src\js\views\recipeView.js133393241421491808 0
 78D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\detect-libc\.npmignore133379365665967339 0
 70D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\core-js\es\set133382808274245394 1
 88D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\svgo\plugins\sortDefsChildren.js133379365939184408 0
@@ -3699,7 +3699,7 @@
 83D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\dom-serializer\package.json133379365731040730 0
 82D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\core-js\full\string\big.js133382808203399087 0
 100D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\core-js\features\string\virtual\match-all.js133382808292168562 0
-66D:\TheCompleteJavaScriptCourse\forkify-app\dist\index.f7626f62.css133390594100741684 0
+66D:\TheCompleteJavaScriptCourse\forkify-app\dist\index.f7626f62.css133393240124961359 0
 86D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\core-js\modules\es.weak-map.js133382808234026180 0
 80D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\dom-serializer\README.md133379365762378123 0
 96D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\dom-serializer\node_modules\entities\lib133379365789061329 1
@@ -7344,7 +7344,7 @@
 94D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\core-js\features\array\virtual\join.js133382808287459272 0
 94D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\core-js\features\array\virtual\keys.js133382808288449143 0
 127D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\@parcel\workers\test\integration\workerfarm\resolve-shared-reference.js133379365835668298 0
-65D:\TheCompleteJavaScriptCourse\forkify-app\dist\index.e37f48ea.js133390594101601188 0
+65D:\TheCompleteJavaScriptCourse\forkify-app\dist\index.e37f48ea.js133393240625001468 0
 94D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\@parcel\transformer-image\package.json133379365735708859 0
 103D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\core-js\features\array\virtual\last-index-of.js133382808289126063 0
 93D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\core-js\features\array\virtual\map.js133382808291362953 0
@@ -9803,7 +9803,7 @@
 83D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\@parcel\events\lib\index.js133379365728103111 0
 90D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\@parcel\events\lib\ValueEmitter.js133379365754118524 0
 82D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\@parcel\diagnostic\LICENSE133379365660520346 0
-65D:\TheCompleteJavaScriptCourse\forkify-app\dist\logo.726d37a8.png133390594100761598 0
+65D:\TheCompleteJavaScriptCourse\forkify-app\dist\logo.726d37a8.png133393240124971339 0
 87D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\@parcel\diagnostic\package.json133379365722108220 0
 79D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\@parcel\diagnostic\test133379365710238122 1
 106D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\@parcel\diagnostic\test\JSONCodeHighlights.test.js133379365701938280 0
@@ -10595,7 +10595,7 @@
 100D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\@ampproject\remapping\dist\remapping.mjs.map133384542384122725 0
 99D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\@ampproject\remapping\dist\remapping.umd.js133384542380830820 0
 103D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\@ampproject\remapping\dist\remapping.umd.js.map133384542385085344 0
-58D:\TheCompleteJavaScriptCourse\forkify-app\dist\index.html133390594100781557 0
+58D:\TheCompleteJavaScriptCourse\forkify-app\dist\index.html133393240124961359 0
 103D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\@ampproject\remapping\dist\types\remapping.d.ts133384542390197622 0
 109D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\@ampproject\remapping\dist\types\source-map-tree.d.ts133384542391728752 0
 71D:\TheCompleteJavaScriptCourse\forkify-app\dist\forkify-app.3464ddca.js133379368226983150 0
@@ -10629,9 +10629,9 @@
 69D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\.bin\svgo.ps1133379366115577629 0
 83D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\.bin\update-browserslist-db133379366115582673 0
 87D:\TheCompleteJavaScriptCourse\forkify-app\node_modules\.bin\update-browserslist-db.cmd133379366115582673 0
-68D:\TheCompleteJavaScriptCourse\forkify-app\dist\favicon.8b2f57bf.png133390594101133037 0
+68D:\TheCompleteJavaScriptCourse\forkify-app\dist\favicon.8b2f57bf.png133393240125100994 0
 75D:\TheCompleteJavaScriptCourse\forkify-app\dist\forkify-app.3464ddca.js.map133379368227182678 0
-66D:\TheCompleteJavaScriptCourse\forkify-app\dist\icons.21bad73c.svg133390594101133037 0
-66D:\TheCompleteJavaScriptCourse\forkify-app\dist\icons.dfd7a6db.svg133390594100686227 0
-69D:\TheCompleteJavaScriptCourse\forkify-app\dist\index.e37f48ea.js.map133390594101706001 0
-70D:\TheCompleteJavaScriptCourse\forkify-app\dist\index.f7626f62.css.map133390594100864485 0
+66D:\TheCompleteJavaScriptCourse\forkify-app\dist\icons.21bad73c.svg133393240125100994 0
+66D:\TheCompleteJavaScriptCourse\forkify-app\dist\icons.dfd7a6db.svg133393240124961359 0
+69D:\TheCompleteJavaScriptCourse\forkify-app\dist\index.e37f48ea.js.map133393240625081257 0
+70D:\TheCompleteJavaScriptCourse\forkify-app\dist\index.f7626f62.css.map133393240125071076 0
